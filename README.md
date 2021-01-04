@@ -1,2 +1,2 @@
 # pranks
-A repository for pranks those are txt files but you have to go at save as .vbs
+A repository for pranks those are .vbs files means if you start it it beins
