@@ -1,0 +1,1 @@
+X=MsgBox("Task Manager has been disabled by your administrator",0+64,"Alert")  

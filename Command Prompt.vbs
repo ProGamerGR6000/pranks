@@ -1,0 +1,1 @@
+X=MsgBox("Command Prompt has been disabled by your administrator",0+64,"Alert") 
